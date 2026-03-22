@@ -73,7 +73,7 @@ Revenue = Price × Quantity
         Customers
             |
             |
-Products —— Orders (Fact Table)
+        Products —— Orders (Fact Table)
 
 ### 🔹 5. Data Analysis
 Performed analysis using Pivot Tables:
@@ -109,7 +109,6 @@ Performed analysis using Pivot Tables:
 
 ## 📸 Dashboard Preview
 
-(Add your dashboard screenshot here)
 
 ![Dashboard Preview](dashboard.png)
 
@@ -170,4 +169,8 @@ This project demonstrates:
 
 ## 📢 Connect With Me
 
-(Add your LinkedIn / GitHub here)
+<p align="center">
+  <a href="https://www.linkedin.com/in/kaushikbhadra07" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Kaushik%20Bhadra-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
