@@ -10,8 +10,6 @@
   <img src="https://img.shields.io/badge/Focus-Data%20Analytics-orange?style=for-the-badge"/>
 </p>
 
----
-
 ## 📌 Project Overview
 
 This project analyzes sales data from **Ferns N Petals (FNP)**—an online gifting platform—using **Microsoft Excel**.
@@ -25,6 +23,7 @@ It demonstrates a complete **end-to-end data analytics workflow**, including:
 - 🔹 Dashboard Creation (Charts & Slicers)  
 
 📊 The final output is an **interactive Excel dashboard** that provides actionable business insights.
+
 <p align="center">
   <a href="https://github.com/kauz-vii/FNP_Sales_Dashboard_Excel_Project/blob/main/Insights.md">
     <img src="https://img.shields.io/badge/For%20Key%20Insights%20with%20Business%20Impact%20%7C%20Click%20Here-blue?style=for-the-badge" />
