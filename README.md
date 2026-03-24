@@ -1,4 +1,5 @@
 # 🌸 FNP Sales Dashboard (Excel Project)
+![](https://github.com/kauz-vii/FNP_Sales_Dashboard_Excel_Project/blob/main/fnp-logo.jpg)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tool-Excel-green?style=for-the-badge"/>
@@ -21,7 +22,7 @@ It demonstrates a complete **end-to-end data analytics workflow**, including:
 - 🔹 Dashboard Creation (Charts & Slicers)  
 
 📊 The final output is an **interactive Excel dashboard** that provides actionable business insights.
-
+📊 [![Key insights with business impact](https://img.shields.io/badge/Click-Open%20Link-blue?style=for-the-badge)](https://github.com/kauz-vii/FNP_Sales_Dashboard_Excel_Project/blob/main/Insights.md)
 ---
 
 ## 🎯 Objectives
@@ -110,7 +111,7 @@ Performed analysis using Pivot Tables:
 ## 📸 Dashboard Preview
 
 
-![Dashboard Preview](dashboard.png)
+![](https://github.com/kauz-vii/FNP_Sales_Dashboard_Excel_Project/blob/main/Dashboard-screenshot.jpg)
 
 ---
 
